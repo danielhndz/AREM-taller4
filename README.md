@@ -1,4 +1,4 @@
-# :hammer_and_wrench: META, Protocolos de objetos, Patrón IoC, Reflexión
+# :hammer_and_wrench: META, Patrón IoC, Reflexión
 
 ## Arquitecturas Empresariales
 
@@ -10,7 +10,7 @@ Servidor web (tipo Apache) en Java. El servidor es capaz de entregar páginas ht
 
 En resumen, una vez el servidor está desplegado en [localhost](https://localhost:35000/):
 
-![connect from browser](../media/using2.png?raw=true):
+![connect from browser](../media/using2.png?raw=true)
 
 - Entrega archivos estáticos como páginas HTML, CSS, JS e imágenes.
 
